@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="851px" height="115px" viewBox="0 0 851 115" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="Group" transform="translate(90.000000, 4.000000)">
+                <g id="poll-symbol-on-black-square-with-rounded-corners" transform="translate(0.000000, 16.000000)">
+                    <g id="Capa_1">
+                        <rect id="Rectangle" fill="#FFFFFF" x="10" y="10" width="70" height="71"></rect>
+                        <g id="poll" fill="#65B0ED">
+                            <path d="M81.7777778,0 L10.2222222,0 C4.6,0 0,4.6 0,10.2222222 L0,81.7777778 C0,87.4 4.6,92 10.2222222,92 L81.7777778,92 C87.4,92 92,87.4 92,81.7777778 L92,10.2222222 C92,4.6 87.4,0 81.7777778,0 L81.7777778,0 Z M30.6666667,71.5555556 L20.4444444,71.5555556 L20.4444444,35.7777778 L30.6666667,35.7777778 L30.6666667,71.5555556 L30.6666667,71.5555556 Z M51.1111111,71.5555556 L40.8888889,71.5555556 L40.8888889,20.4444444 L51.1111111,20.4444444 L51.1111111,71.5555556 L51.1111111,71.5555556 Z M71.5555556,71.5555556 L61.3333333,71.5555556 L61.3333333,51.1111111 L71.5555556,51.1111111 L71.5555556,71.5555556 L71.5555556,71.5555556 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+                <text id="QUICK-POLL" stroke="#FFFFFF" stroke-width="3.6" font-family="Montserrat-Bold, Montserrat" font-size="89.02908" font-weight="bold" fill="#62AFF0">
+                    <tspan x="115" y="86">QUICK POLL</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

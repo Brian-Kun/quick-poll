@@ -1,50 +1,22 @@
-# quiz
+# Quick Poll
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is simple 3-page web application that I created in order to learn the ember.js library. Quick Poll (as the name implies) it's really simple. The home page prompts you to enter the question of your poll and up to three options to answer the poll. Then just click the create button and shazaaamm.  
 
-## Prerequisites
+## Wanna run my project? Cool! You'll need these
 
-You will need the following things properly installed on your computer.
-
-* [Git](https://git-scm.com/)
 * [Node.js](https://nodejs.org/) (with NPM)
 * [Ember CLI](https://ember-cli.com/)
-* [PhantomJS](http://phantomjs.org/)
 
 ## Installation
 
-* `git clone <repository-url>` this repository
+* `git clone` this repository
 * `cd quiz`
 * `npm install`
 
-## Running / Development
+## Running the Web App
 
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
+* Run `ember s`
+* Then visit [http://localhost:4200](http://localhost:4200).
 
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
-
-## Further Reading / Useful Links
-
-* [ember.js](http://emberjs.com/)
-* [ember-cli](https://ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+## Wiki
+As I explained in the intro, I made this app in order to learn ember.js so I kept a nicely written wiki page to keep track of everything and some notes about ember.js overall.
